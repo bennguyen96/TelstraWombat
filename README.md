@@ -9,3 +9,14 @@ Sprint 2:
 - Do/Be/Feel Table
 - Goal Model
 - Personas
+
+Sprint 3:
+ - User Stories
+ - Paper Prototypes
+
+Sprint 4:
+ - Acceptance Criterias
+ - Acceptance Tests
+ - Traceability Matrix
+ - High Fidelity Prototype
+ - Moodboard
