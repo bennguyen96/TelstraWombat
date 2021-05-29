@@ -1,0 +1,19 @@
+10001,Melaleuca,stypheliodes,Prickly Paperback,Street Trees,5,,1000,1975,1,Mature,106 Queen ST COLAC VIC 3250,-38.344595,143.592171
+10004,Melaleuca,stypheliodes,Prickly Paperback,Street Trees,4,,1000,1975,1,Mature,122 Queen ST COLAC VIC 3250,-38.346198,143.591812
+10007,Fraxinus,excelsior,Golden Ash,Street Trees,12,,1200,1980,1,Mature,40 Rae ST COLAC VIC 3250,-38.342097,143.588944
+10044,Malus,ioensis,Pink Crab Apple,Street Trees,3,,150,1985,1,Semi-Mature,13 Railway ST COLAC VIC 3250//2 TREES,-38.34374,143.581168
+10050,Prunus,elvins,Weeping Prunus,Street Trees,5,,700,1970,1,Semi-Mature,15 Richard ST COLAC VIC 3250,-38.348305,143.59333
+10058,Melaleuca,stypheliodes,Prickly Paperback,Street Trees,2,,400,1970,1,Semi-Mature,3 Richard ST COLAC VIC 3250,-38.348213,143.592157
+10064,Melaleuca,linarifolia,Snow in Summer,Street Trees,7,,1200,1975,1,Mature,27 Richmond ST COLAC VIC 3250,-38.348148,143.578399
+10067,Melaleuca,stypheliodes,Prickly Paperback,Street Trees,5,,500,1985,1,Mature,24 Richmond ST COLAC VIC 3250,-38.347938,143.578545
+10070,Melaleuca,linarifolia,Snow in Summer,Street Trees,5,,800,1985,1,Mature,18 Richmond ST COLAC VIC 3250,-38.347536,143.578644
+10090,Melaleuca,stypheliodes,Prickly Paperback,Street Trees,5,,900,1985,1,Semi-Mature,25 Robertson ST COLAC VIC 3250,-38.346655,143.577416
+10101,Melaleuca,stypheliodes,Prickly Paperback,Street Trees,4,,300,1970,1,Semi-Mature,11 Ross ST COLAC VIC 3250,-38.334026,143.568785
+10104,Melaleuca,linarifolia,Snow in Summer,Street Trees,6,,600,1970,1,Mature,10 Ross ST COLAC VIC 3250,-38.333822,143.568983
+10107,Prunus,cerasifera,Cherry Plum,Street Trees,4,,300,1970,1,Semi-Mature,1 Ross ST COLAC VIC 3250//Moore street side,-38.333006,143.568757
+10110,Melaleuca,linarifolia,Snow in Summer,Street Trees,0,,0,0,1,Mature,33 Ross ST COLAC VIC 3250,-38.335803,143.56846
+10113,Eucalyptus,viminalis,Manna Gum,Street Trees,5,,300,1970,1,Semi-Mature,18 Ross ST COLAC VIC 3250,-38.334567,143.568852
+10121,Melaleuca,stypheliodes,Prickly Paperback,Street Trees,4,,300,1970,1,Semi-Mature,19 Ross ST COLAC VIC 3250,-38.33474,143.568658
+10127,Lophostermon,confertus,Queensland Box Brush,Street Trees,4,,300,1990,1,Semi-Mature,9 Scott ST COLAC VIC 3250,-38.339593,143.57872
+10130,Lophostermon,confertus,Queensland Box Brush,Street Trees,2,,100,1995,1,Young,21 Scott ST COLAC VIC 3250,-38.34118,143.578269
+Tree_ID,Genus_Desc,Spec_Desc,Common_Name,Location_Type,Height_m,Canopy_width_m,Diam_Breast_Height_mm,Year_Planted,No_Trunks,Life_stage_desc,General_Notes,GPS_lat,GPS_lon
