@@ -1,7 +1,7 @@
 # TelstraWombat
 SWEN90009 Team Wombat
 
-Changelog: 
+Changelog:  
 Sprint 1:
 - Project Overview
 - Requirements Elicitation
