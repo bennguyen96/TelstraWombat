@@ -34,6 +34,15 @@ Team Wombat created a tool that simplifies the process of normalising log data, 
   * structured_data.csv: A data file containing the structured data used in our prototype
   * unstructured_data.log: A data file containing the unstructured data used in our prototype
 - docs: Contains all product and requirement elicitation documentation files
+  * Do Be Feel Table.pdf: A table that summarises the goals of the product based on client expectations
+  * Goal Model.png: Image of a motivational model which helps to visualise the design thinking based on the goals
+  * Paper Prototype - Task scenarios + Feedback.pdf: File which includes the task scenarios used to walk through the digital prototype with the client. Also includes client feedback
+  * Personas.pdf: Contains the process of constructing personas, persona definitions, and our final created persona images
+  * Project Overview.pdf: Overview of the problem, system as-is, and scope of the solution
+  * Requirements Elicitation.pdf: The documentation for an initial interview conducted with the client. Contains details on the interview strategy and consequent Q&A
+  * User Journey Map.pdf: A visualisation of the journey through two user story 'epics'
+  * User Stories List.pdf: List of all user stories for the system
+  * User Story Map.pdf: A roadmap for development created by splitting up user stories into sprints
 - tests: Contains Acceptance Tests, Acceptance Criterion, Traceability Matrix
   * User Story Acceptance Criterias.pdf: Contain the acceptance criteria fo every user story listed in the user story list
   * User Story Acceptance Tests.pdf: Contain the acceptance tests for each user story listed in the user story list
