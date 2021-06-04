@@ -30,10 +30,10 @@ Team Wombat created a tool that simplifies the process of normalising log data, 
 
 <h2 id="Structure">Folder Structure:</h2>
 
-- data sample: Contains the data samples used in the digital prototype
-  * Data Sources.pdf: A file listing the data used in our prototype and their origins
-  * structured_data.csv: A data file containing the structured data used in our prototype
-  * unstructured_data.log: A data file containing the unstructured data used in our prototype
+- data samples: Contains the data samples used in the digital prototype
+  * [Data Sources.pdf](data%20samples/Data%20Sources.pdf): A file listing the data used in our prototype and their origins
+  * [structured_data.csv](data%20samples/structured_data.csv): structured_data.csv: A data file containing the structured data used in our prototype
+  * [unstructured_data.log](data%20samples/unstructured_data.log): A data file containing the unstructured data used in our prototype
 - docs: Contains all product and requirement elicitation documentation files
   * Do Be Feel Table.pdf: A table that summarises the goals of the product based on client expectations
   * Goal Model.png: Image of a motivational model which helps to visualise the design thinking based on the goals
