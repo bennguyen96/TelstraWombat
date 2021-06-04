@@ -43,6 +43,7 @@ Team Wombat created a tool that simplifies the process of normalising log data, 
   * User Journey Map.pdf: A visualisation of the journey through two user story 'epics'
   * User Stories List.pdf: List of all user stories for the system
   * User Story Map.pdf: A roadmap for development created by splitting up user stories into sprints
+  * Final Presentation.pdf: The slides for our final presentation delivered to the client
 - tests: Contains Acceptance Tests, Acceptance Criterion, Traceability Matrix
   * User Story Acceptance Criterias.pdf: Contain the acceptance criteria fo every user story listed in the user story list
   * User Story Acceptance Tests.pdf: Contain the acceptance tests for each user story listed in the user story list
