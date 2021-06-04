@@ -22,7 +22,10 @@ Key Links:
 Folder Structure:
 - 
 - docs: Contains all product and requirement elicitation documentation files
-- tests: Contains Acceptance Tests, Acceptance Criterias, Traceability Matrix
+- tests: Contains Acceptance Tests, Acceptance Criterion, Traceability Matrix
+  * User Story Acceptance Criterias.pdf: Contain the acceptance criteria fo every user story listed in the user story list
+  * User Story Acceptance Tests.pdf: Contain the acceptance tests for each user story listed in the user story list
+  * Traceability Matrix.pdf: Contains the traceability matrix mapping each acceptance criteria to the associated acceptance test
 - prototypes/low fidelity: Contains files for the paper prototype
 - prototypes/high fidelity: Contains files for the digital prototype
 - ui: Contains images and assets used for the digital prototype, including moodboard
