@@ -8,6 +8,7 @@ SWEN90009 Team Wombat
 <a href="#Links">Key Links</a><br>
 <a href="#Structure">Folder Structure</a><br>
 <a href="#Changelog">Changelog</a><br>
+<a href="#Matrix">Traceability Matrix</a><br>
 
 <h2 id="Intro">Introduction:</h2>
 
@@ -85,3 +86,5 @@ Team Wombat created a tool that simplifies the process of normalising log data, 
 
 **Sprint 5**:
 - Product Handover
+
+<h2 id="Matrix">Traceability Matrix:</h2>
