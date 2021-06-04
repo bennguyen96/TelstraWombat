@@ -89,4 +89,4 @@ Team Wombat created a tool that simplifies the process of normalising log data, 
 
 <h2 id="Matrix">Traceability Matrix:</h2>
 
-[File Link](tests/Traceability%20Matrix.pdf)
+[Traceability Matrix.pdf](tests/Traceability%20Matrix.pdf): Contains the traceability matrix mapping each acceptance criteria to the associated acceptance test
