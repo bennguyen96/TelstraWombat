@@ -48,7 +48,8 @@ Team Wombat created a tool that simplifies the process of normalising log data, 
   * Components - Assets.pdf: A file listing the components used in the digital prototype
   * Moodboard 1 - Classic Telstra Colours.pdf: Moodboard based on the main blue Telstra logo 
   * Moodboard 2 - Classic Computers Colours: Moodboard based on a more retro computer theme
-  * Moodboard 3 - Green Telstra Colours.pdf: Moodboard based on one of the alternative colours the 
+  * Moodboard 3 - Green Telstra Colours.pdf: Moodboard based on one of the alternative colours the Telstra logo appears in 
+  * Moodboards.pdf: Contains the description of Moodboards
 
 <h2 id="Changelog">Changelog:</h2>
 
