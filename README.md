@@ -39,12 +39,16 @@ Team Wombat created a tool that simplifies the process of normalising log data, 
   * User Story Acceptance Tests.pdf: Contain the acceptance tests for each user story listed in the user story list
   * Traceability Matrix.pdf: Contains the traceability matrix mapping each acceptance criteria to the associated acceptance test
 - prototypes/low fidelity: Contains files for the paper prototype
-  *Paper Prototype.pdf: Contain the paper prototype design pages exported from Figma
-  *Paper Prototype.fig: Contains the Figma files for the paper prototype, to open this, import it to Figma on your web browser
+  * Paper Prototype.pdf: Contain the paper prototype design pages exported from Figma
+  * Paper Prototype.fig: Contains the Figma files for the paper prototype, to open this, import it to Figma on your web browser
 - prototypes/high fidelity: Contains files for the digital prototype
-  *Digital Prototype.pdf: Contain the digital prototype design pages exported from Figma
-  *Digital Prototype.fig: Contains the Figma files for the digital prototype, to open this, import it to Figma on your web browser
+  * Digital Prototype.pdf: Contain the digital prototype design pages exported from Figma
+  * Digital Prototype.fig: Contains the Figma files for the digital prototype, to open this, import it to Figma on your web browser
 - ui: Contains images and assets used for the digital prototype, including moodboard
+  * Components - Assets.pdf: A file listing the components used in the digital prototype
+  * Moodboard 1 - Classic Telstra Colours.pdf: Moodboard based on the main blue Telstra logo 
+  * Moodboard 2 - Classic Computers Colours: Moodboard based on a more retro computer theme
+  * Moodboard 3 - Green Telstra Colours.pdf: Moodboard based on one of the alternative colours the 
 
 <h2 id="Changelog">Changelog:</h2>
 
