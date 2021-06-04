@@ -28,7 +28,11 @@ Team Wombat created a tool that simplifies the process of normalising log data, 
 - User Story Map: https://miro.com/app/board/o9J_lIQx0X4=/
 
 <h2 id="Structure">Folder Structure:</h2>
-- 
+
+- data sample: Contains the data samples used in the digital prototype
+  * Data Sources.pdf: A file listing the data used in our prototype and their origins
+  * structured_data.csv: A data file containing the structured data used in our prototype
+  * unstructured_data.log: A data file containing the unstructured data used in our prototype
 - docs: Contains all product and requirement elicitation documentation files
 - tests: Contains Acceptance Tests, Acceptance Criterion, Traceability Matrix
   * User Story Acceptance Criterias.pdf: Contain the acceptance criteria fo every user story listed in the user story list
@@ -37,7 +41,6 @@ Team Wombat created a tool that simplifies the process of normalising log data, 
 - prototypes/low fidelity: Contains files for the paper prototype
 - prototypes/high fidelity: Contains files for the digital prototype
 - ui: Contains images and assets used for the digital prototype, including moodboard
-- data sample: Contains the data samples used in the digital prototype
 
 <h2 id="Changelog">Changelog:</h2>
 -
