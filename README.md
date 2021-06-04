@@ -44,7 +44,7 @@ Changelog:
  - Paper Prototypes
 
 **Sprint 4**:
- - Acceptance Criterias
+ - Acceptance Criterion
  - Acceptance Tests
  - Traceability Matrix
  - High Fidelity Prototype
